@@ -54,7 +54,14 @@ Services
 
 Teaching
 ======
-* 
+* Fall2024: Instructor [FRS159](https://registrar.princeton.edu/course-offerings/course-details?term=1252&courseid=017419)
+  * Princeton University, Princeton, NJ, USA
+
+* October - Dec2019: Teaching assistant Data Engineering 1 for master's students
+  * University of Tsukuba, Japan
+  
+* October - Dec2018: Teaching assistant Database systems for undergraduate students
+  * University of Tsukuba, Japan
   
 For more Information [Download My resume](/assets/pdf/Resume.pdf)
 ======
