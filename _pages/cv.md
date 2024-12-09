@@ -11,49 +11,51 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Applied Physics, University of Rwanda College of Science and Technology, Rwanda, March 2012
+* Master of Regional Development, Toyo University, Japan, September 2017
+* Ph.D in Computer Science, University of Tsukuba, Japan, March 2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2023: Postdoctoral Research Associate 
+  * Princeton University, Princeton NJ, USA
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* June 2022 - August 2023: Postdoctoral Researcher
+  * RIKEN Center for Advanced Intelligence Project, Tokyo, Japan
+  * [Approximate Bayesian Inference Team](https://team-approx-bayes.github.io/)
+
+* April 2018 - March 2022: Researcher / PhD student
+  * University of Tsukuba, Japan
+  * Supervisor: [Prof. Toshiyuki Amagasa](https://scholar.google.co.jp/citations?user=L4hdfUUAAAAJ&hl=en)
+
+* July 2020 - March 2022: Research Part-time Worker
+  * RIKEN Center for Advanced Intelligence Project, Tokyo, Japan
+  * [Approximate Bayesian Inference Team](https://team-approx-bayes.github.io/)
+
+* April 2019 - Dec 2019: Part-time technical assistant
+  * Future Architect Inc, Tokyo, Japan
+
+* July 2018 - April 2019: Part-time Research assistant
+  * Center for Computational Sciences, University of Tsukuba, Tsukuba, Japan
+
+* October 2017 - March 2018: Intern
+  * Future Architect Inc, Tokyo, Japan
+
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+See my [GoogleScholar](https://scholar.google.co.jp/citations?user=emV9Mr0AAAAJ&hl=en) page
   
-Talks
+Services
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+* Reviewer for LREC 2024, COLING 2024, NeurIPS 2023, NeurIPS 2022, ACML 2022, ICLR 2021.
+* Organizing for:
+  * AfricaNLP at ICLR 2024, 2023
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 
   
-Service and leadership
+For more Information [Download My resume](/assets/pdf/Resume.pdf)
 ======
-* Currently signed in to 43 different slack teams
+
