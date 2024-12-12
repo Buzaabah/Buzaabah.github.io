@@ -1,16 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching assistant"
 collection: teaching
-type: "Workshop"
+type: "Graduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "University of Tsukuba"
 date: 2015-01-01
 location: "City, Country"
 ---
 
-Teaching assistant
-======
-
-* October - Dec2019: Teaching assistant Data Engineering 1 for master's students
+* October - Dec2019: Data Engineering 1 for master's students
   * University of Tsukuba, Japan
-======
+
