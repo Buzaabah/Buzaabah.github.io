@@ -63,6 +63,6 @@ Teaching
 * October - Dec2018: Teaching assistant Database systems for undergraduate students
   * University of Tsukuba, Japan
   
-For more Information [Download My resume](/assets/pdf/Resume.pdf)
+* For more Information [Download My resume](/assets/pdf/Resume.pdf)
 ======
 
