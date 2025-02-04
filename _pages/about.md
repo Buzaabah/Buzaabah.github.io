@@ -19,5 +19,6 @@ For more information, [see my resume](/assets/pdf/Resume.pdf).
               
 
 ## News
+- 2024.01: Our [IrokoBecnh](https://arxiv.org/abs/2406.03368) have been accepted at NAACL 2025. 
 - 2023.10: Our [AfriQA](https://arxiv.org/abs/2305.06897) have been accepted at EMNLP 2023. 
 - 2023.5: Our [MasakhaPOS](https://arxiv.org/abs/2305.13989) have been accepted at ACL 2023.
