@@ -20,7 +20,7 @@ For more information, [see my resume](/assets/pdf/Resume.pdf).
 
 ## News
 - My Seminar on [Teaching Computers to Understand African Languages](https://www.princeton.edu/news/2025/02/07/millions-african-continent-cant-fully-benefit-ai-revolution-princeton-course-aims) was featured on Princeton University homepage.
-- Our [Lugha-Llama](https://huggingface.co/Lugha-Llama) Africa Centric language models are available on Huggingface.
+- Our [Lugha-Llama](https://huggingface.co/Lugha-Llama) Africa centric language models are available on Huggingface.
 - [IrokoBecnh](https://arxiv.org/abs/2406.03368) paper have been accepted at NAACL 2025. 
 - [AfriQA](https://arxiv.org/abs/2305.06897) paper have been accepted at EMNLP 2023. 
 - [MasakhaPOS](https://arxiv.org/abs/2305.13989) paper have been accepted at ACL 2023.
