@@ -22,6 +22,6 @@ During my Ph.D, I was lucky to be advised by [Prof. Toshiyuki Amagasa](http://ww
 - [Feb 22, 2025] Speaking at [envision conference](https://www.envisionprinceton.com/#page1)
 - [Feb 7, 2025] My course on [Teaching Computers to Understand African Languages](https://www.princeton.edu/news/2025/02/07/millions-african-continent-cant-fully-benefit-ai-revolution-princeton-course-aims) was featured on Princeton University homepage.
 - [Jan 16, 2025] [IrokoBecnh](https://arxiv.org/abs/2406.03368) paper have been accepted at NAACL 2025. 
-- [Dec 23, 2024] Our [Lugha-Llama](https://huggingface.co/Lugha-Llama), an Africa centric language models are available on Huggingface.
+- [Dec 23, 2024] Our [Lugha-Llama](https://huggingface.co/Lugha-Llama), Africa centric language models are available on Huggingface.
 - [2023] [AfriQA](https://arxiv.org/abs/2305.06897) paper have been accepted at EMNLP'23. 
 - [2023] [MasakhaPOS](https://arxiv.org/abs/2305.13989) paper have been accepted at ACL'23.
