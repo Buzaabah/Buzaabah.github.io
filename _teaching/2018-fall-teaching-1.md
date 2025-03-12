@@ -1,4 +1,4 @@
----
+<!---
 title: "Teaching assistant"
 collection: teaching
 type: "Undergraduate course"
@@ -10,3 +10,4 @@ location: "Tsukuba, Japan"
 
 * Fall2018: Teaching assistant Database systems for undergraduate students
  
+--->
