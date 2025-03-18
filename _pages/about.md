@@ -19,7 +19,7 @@ During my Ph.D, I was lucky to be advised by [Prof. Toshiyuki Amagasa](http://ww
               
 
 ## News
-- [Mar 22, 2025] Invited talk at the [NJ Makers day](https://chathamlibrary.librarycalendar.com/event/enhancing-technology-african-languages-lecture-27751)
+- [Mar 22, 2025] Invited talk at the [NJ Makers day](https://chathamlibrary.librarycalendar.com/event/enhancing-technology-african-languages-lecture-27751)by the Library of the Chathams
 - [Feb 22, 2025] Invited talk at [envision conference](https://www.envisionprinceton.com/#page1)
 - [Feb 13, 2025] [INJONGO](https://arxiv.org/abs/2502.09814): A multicultural Intent Detection and Slot-filling Dataset for 16 African languages *Pre-print 2025* 
 - [Feb 7, 2025] My course on [Teaching Computers to Understand African Languages](https://www.princeton.edu/news/2025/02/07/millions-african-continent-cant-fully-benefit-ai-revolution-princeton-course-aims) was featured on Princeton University homepage
@@ -28,3 +28,6 @@ During my Ph.D, I was lucky to be advised by [Prof. Toshiyuki Amagasa](http://ww
 - [Dec 12, 2024] Co-organizing the [AfricaNLP 2025 Workshop](https://sites.google.com/view/africanlp2025/home) on Multilingual and Multicultural-aware LLMs at [ACL2025](https://2025.aclweb.org/)
 - [2023] [AfriQA](https://arxiv.org/abs/2305.06897) paper have been accepted at EMNLP2023
 - [2023] [MasakhaPOS](https://arxiv.org/abs/2305.13989) paper have been accepted at ACL2023
+
+
+[def]: https://chathamlibrary.librarycalendar.com/event/enhancing-technology-african-languages-lecture-27751
