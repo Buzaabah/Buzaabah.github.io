@@ -66,7 +66,7 @@ The table below shows a detailed comparision of Lugha-Llama models to the baseli
 
 ### Conclusion and Future directions
 
-We introduce three groundbreaking Lugha-Llama models, leveraging continued pre-training to adavnce research in low-resource African languages. Our models achieve state-of-the-art results across challenging IrokoBench tasks and the cross-lingual AfriQA dataset.
+We introduce three groundbreaking Lugha-Llama models, leveraging continued pre-training to advance research in low-resource African languages. Our models achieve state-of-the-art results across challenging IrokoBench tasks and the cross-lingual AfriQA dataset.
 Our findings reveals that integrating African language pre-training data with carefully curated, high-quality English documents from FineWeb-Edu and OpenWeb-Math substancially improves downstream task performance. 
 
 This work represents a significant contribution in realizing the vision of greater representation for African languages in NLP, LLMs and broader AI research.
