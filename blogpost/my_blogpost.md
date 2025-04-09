@@ -34,7 +34,7 @@ The figure below shows tokens per language in our training corpus and the sampli
 We continue training Llama-3.1-8B, which was predominantly trained on English data. To prevent catastrophic forgetting of the pre-trained capabilities of the model, we explore retaining English data in the continued pre-training data mix. We experiment with two different sources of English data:
 
 1. [FineWeb-Edu](https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu) which contains high-quality and knowledge-rich educational documents.
-2. [OpenWebMath](https://huggingface.co/datasets/open-web-math/open-web-math) a curated dataset of mathematical documents. In these experiments, we combine 40% of English data with 60% of the WURA data. This kind of "replay" has been shown to be effective in preventing catastrophic forgetting in continued pre-training [Ibrahim et al.,](https://arxiv.org/abs/2403.08763).
+2. [OpenWebMath](https://huggingface.co/datasets/open-web-math/open-web-math) a curated dataset of mathematical documents. In these experiments, we combine 40% of English data with 60% of the WURA data. This kind of "replay" has been shown to be effective in preventing catastrophic forgetting in continued pre-training [[Ibrahim et al.,](https://arxiv.org/abs/2403.08763)].
 
 
 ## Lugha-Llama Models
