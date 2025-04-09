@@ -47,7 +47,7 @@ We make use of the [LM Evaluation Harness](https://github.com/EleutherAI/lm-eval
 
 - Including data from FineWeb-Edu (_edu) consistently boosts the performance across languages in AfriMMLU and including English data from OpenWebMath (_math) improves performance in AfriMGSM.
 
-- Lugha-Llama models significantly outperform the base model by more than 10% and consistently outperforms similarly sized Africa-centric language models on the cross- lingual question answering benchmark.
+- Lugha-Llama models significantly outperform the base model by more than 10% and consistently outperforms similarly sized Africa-centric language models on the cross- lingual question answering benchmark AfriQA.
  
 
 <p align="center">
