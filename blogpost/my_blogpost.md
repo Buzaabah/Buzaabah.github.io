@@ -1,6 +1,6 @@
 ### Lugha-Llama: Adapting Large Language Models for African Languages
 
-[Happy Buzaaba](https://buzaabah.github.io/)<sup>1</sup>, [Alexander Wettig](https://www.cs.princeton.edu/~awettig/)<sup>1</sup>, [David Ifeoluwa Adelan](https://dadelani.github.io/)<sup>2</sup>, [Christiane Fellbaum](https://www.cs.princeton.edu/people/profile/fellbaum)<sup>1</sup>
+[Happy Buzaaba](https://buzaabah.github.io/)<sup>1</sup>, [Alexander Wettig](https://www.cs.princeton.edu/~awettig/)<sup>1</sup>, [David Ifeoluwa Adelani](https://dadelani.github.io/)<sup>2</sup>, [Christiane Fellbaum](https://www.cs.princeton.edu/people/profile/fellbaum)<sup>1</sup>
 
 <sup>1</sup>Princeton University
 <sup>2</sup>Mila, McGill University & Canada CIFAR AI Chair
