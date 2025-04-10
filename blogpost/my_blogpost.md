@@ -92,11 +92,14 @@ Looking ahead, promissing future directions include a deeper investigation into 
 ### Citation
 If you are using the Lugha Llama models, please cite our blog post!
 ```bibtex
-@online{buzaaba2025lugha,
-  author    = {Happy Buzaaba and Alexander Wettig and David Ifeoluwa Adelan and Christiane Fellbaum},
-  title     = {Lugha-Llama: Adapting Large Language Models for African Languages},
-  year      = {2025},
-  url       = {TBD}
+@misc{buzaaba2025lughallamaadaptinglargelanguage,
+      title={Lugha-Llama: Adapting Large Language Models for African Languages}, 
+      author={Happy Buzaaba and Alexander Wettig and David Ifeoluwa Adelani and Christiane Fellbaum},
+      year={2025},
+      eprint={2504.06536},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2504.06536}, 
 }
 ```
 
