@@ -23,7 +23,7 @@ We rely on an openly available multilingual <a href="https://aclanthology.org/20
 
 One of the challenges of multilingual model pre-training is data imbalance. Given an imbalanced multilingual corpus like WURA, it is important to carefully control how many times a dataset can be repeated during training to avoid overfitting and memorization.
 
-To address this, we sample from 19 languages in WURA corpus using [UniMax sampling](https://arxiv.org/abs/2304.09151) which attempts to sample as uniformaly as possible across languages while controling the extent of data repeats for any language. Rare languages were up-sampled by at most four epochs which was found to incur no discernible degradation during model training [Muennighoff et al.,](https://openreview.net/pdf?id=j5BuTrEj35). 
+To address this, we sample from 19 languages in WURA corpus using [UniMax sampling](https://arxiv.org/abs/2304.09151) which attempts to sample as uniformaly as possible across languages while controling the extent of data repeats for any language. Rare languages were up-sampled by at most four epochs which was found to incur no discernible degradation during model training [[Muennighoff et al.,](https://openreview.net/pdf?id=j5BuTrEj35)]. 
 
 The figure below shows tokens per language in our training corpus and the sampling proportations using unimax sampling.
 <p align="center">
