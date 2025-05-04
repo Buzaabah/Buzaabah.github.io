@@ -19,11 +19,13 @@ During my Ph.D, I was lucky to be advised by [Prof. Toshiyuki Amagasa](http://ww
               
 
 ## News
+- [May 8, 2025] Invited talk at [DESIGN JUSTICE AI: Global Humanities Post-Institute](https://sites.rutgers.edu/critical-ai/event-details/) Rutgers University
+- [April 22, 2025] Our work on [Adapting Large Language Models for African Languages](https://blog.ai.princeton.edu/2025/04/22/lugha-llama-adapting-large-language-models-for-african-languages/) was featured on princeton AI Lab
 - [Mar 22, 2025] Invited talk at the [NJ Makers day](https://chathamlibrary.librarycalendar.com/event/enhancing-technology-african-languages-lecture-27751)
 - [Feb 22, 2025] Invited talk at [envision conference](https://www.envisionprinceton.com/#page1)
 - [Feb 13, 2025] [INJONGO](https://arxiv.org/abs/2502.09814): A multicultural Intent Detection and Slot-filling Dataset for 16 African languages *Pre-print 2025* 
 - [Feb 7, 2025] My course on [Teaching Computers to Understand African Languages](https://www.princeton.edu/news/2025/02/07/millions-african-continent-cant-fully-benefit-ai-revolution-princeton-course-aims) was featured on Princeton University homepage
-- [Jan 16, 2025] [IrokoBench](https://arxiv.org/abs/2406.03368): A New Benchmark for African Languages in the Age of Large Language Models *accepted at NAACL 2025* 
+- [Jan 16, 2025] [IrokoBench](https://arxiv.org/abs/2406.03368): A New Benchmark for African Languages in the Age of Large Language Models *Out Standing Award NAACL2025* 
 - [Dec 23, 2024] Our [Lugha-Llama](https://huggingface.co/Lugha-Llama), African centric language models are available on Huggingface
 - [Dec 12, 2024] Co-organizing the [AfricaNLP 2025 Workshop](https://sites.google.com/view/africanlp2025/home) on Multilingual and Multicultural-aware LLMs at [ACL2025](https://2025.aclweb.org/)
 - [2023] [AfriQA](https://arxiv.org/abs/2305.06897) paper have been accepted at EMNLP2023
