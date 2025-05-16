@@ -48,7 +48,7 @@ See my [GoogleScholar](https://scholar.google.co.jp/citations?user=emV9Mr0AAAAJ&
   
 Services
 ======
-* Reviewer for LREC 2024, COLING 2024, NeurIPS 2023, NeurIPS 2022, ACML 2022, ICLR 2021.
+* Reviewer for ACL 2025, ICML 2025, AfricaNLP 2025, LREC 2024, COLING 2024, NeurIPS 2023, NeurIPS 2022, ACML 2022, ICLR 2021.
 * Organizing for:
   * AfricaNLP at ICLR 2024, 2023
 
@@ -63,6 +63,6 @@ Teaching
 * October - Dec2018: Teaching assistant Database systems for undergraduate students
   * University of Tsukuba, Japan
   
-* For more Information [Download My resume](/assets/pdf/Updated_resume.pdf)
+* For more Information [Download My resume](/assets/pdf/Updated_resume-1.pdf)
 ======
 
