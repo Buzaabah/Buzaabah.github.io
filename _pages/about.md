@@ -20,6 +20,7 @@ During my Ph.D, I was lucky to be advised by [Prof. Toshiyuki Amagasa](http://ww
               
 
 ## News
+[Fall, 2025] I will be teaching FRS 159, [Teaching Computers to Understand African Languages](https://www.princeton.edu/news/2025/02/07/millions-african-continent-cant-fully-benefit-ai-revolution-princeton-course-aims)
 - [June 1, 2025] [Teaching a PIIRS global seminar in Kenya](https://piirs.princeton.edu/seminars-abroad/global-seminars/technology-african-languages-digital-age)
 - [May 16, 2025] [INJONGO](https://arxiv.org/abs/2502.09814): A multicultural Intent Detection and Slot-filling Dataset for 16 African languages **accepted at ACL2025** 
 - [May 8, 2025] Invited talk at [DESIGN JUSTICE AI: Global Humanities Post-Institute](https://sites.rutgers.edu/critical-ai/event-details/) Rutgers University
