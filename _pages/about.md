@@ -20,6 +20,7 @@ During my Ph.D, I was lucky to be advised by [Prof. Toshiyuki Amagasa](http://ww
               
 
 ## News
+- [June 1, 2025] [Teaching a PIIRS global seminar in Kenya](https://piirs.princeton.edu/seminars-abroad/global-seminars/technology-african-languages-digital-age)
 - [May 16, 2025] [INJONGO](https://arxiv.org/abs/2502.09814): A multicultural Intent Detection and Slot-filling Dataset for 16 African languages **accepted at ACL2025** 
 - [May 8, 2025] Invited talk at [DESIGN JUSTICE AI: Global Humanities Post-Institute](https://sites.rutgers.edu/critical-ai/event-details/) Rutgers University
 - [May 2, 2025] [IrokoBench](https://arxiv.org/abs/2406.03368): A New Benchmark for African Languages in the Age of Large Language Models recieved the **Out Standing Award at NAACL2025**
