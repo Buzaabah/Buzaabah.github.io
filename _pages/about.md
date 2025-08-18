@@ -11,7 +11,7 @@ redirect_from:
 ## About me
 I am an associate research scholar at [PLI](https://pli.princeton.edu/) in the [Princeton AI Lab](https://ai.princeton.edu/ai-lab), 
 I am also affiliated with the [Princeton CDH](https://cdh.princeton.edu), [AWI](https://africaworld.princeton.edu/) and the [AHC](https://pah.princeton.edu/). My work focuses on multilingual NLP for low-resource languages especially African languages. 
-Before that, I was a postdoctoral researcher at the [RIKEN Centre for Advanced Intelligence Project](https://aip.riken.jp/), in the [Approximate Bayesian Inference Team](https://team-approx-bayes.github.io/)
+Before that, I was a postdoctoral researcher at the [RIKEN Centre for Advanced Intelligence Project](https://aip.riken.jp/), in the [Adaptive Bayesian Intelligence Lab](https://team-approx-bayes.github.io/)
 where I spent time investigating the use of natural-gradient Bayesian methods to improve uncertainty estimation in PLMs.
 
 I completed my Ph.D. in the [Knowledge & Data Engineering Lab](http://www.kde.cs.tsukuba.ac.jp/index_en.html) at the [University of Tsukuba](https://www.sie.tsukuba.ac.jp/eng/) in Japan.
