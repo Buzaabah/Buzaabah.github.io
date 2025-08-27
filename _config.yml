@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Happy Buzaaba"
 title_separator          : "-"
 name                     : &name "Happy Buzaaba"
-description              : &description "Postdoc at Princeton"
+description              : &description "Associate Reaserch Scholar at Princeton"
 url                      : https://Buzaabah.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Buzaabah/Buzaabah.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Happy Buzaaba"
   avatar           : "happy.jpg"
-  bio              : "Postdoc at Princeton"
+  bio              : "ARS at Princeton"
   location         : "Princeton NJ"
   employer         :
   pubmed           :
