@@ -16,11 +16,13 @@ where I spent time investigating the use of natural-gradient Bayesian methods to
 
 I completed my Ph.D. in the [Knowledge & Data Engineering Lab](http://www.kde.cs.tsukuba.ac.jp/index_en.html) at the [University of Tsukuba](https://www.sie.tsukuba.ac.jp/eng/) in Japan.
 During my Ph.D, I was lucky to be advised by [Prof. Toshiyuki Amagasa](http://www.kde.cs.tsukuba.ac.jp/~amagasa/home/?IndexE) on making use of machine learning and computational linguistics to reason about language and knowledge. I focused on question answering over knowledge base systems.
-
-              
-
+             
 ## News
-- [Fall, 2025] I will be teaching FRS 159, [Teaching Computers to Understand African Languages](https://www.princeton.edu/news/2025/02/07/millions-african-continent-cant-fully-benefit-ai-revolution-princeton-course-aims)
+- [August 3, 2026] [AfriSUD](https://arxiv.org/abs/2606.12708): A Dependency Treebank Collection for Evaluating Models on African Languages **Preprint**
+- [August 3, 2026] [Evaluating the Effect of Linguistic Relatedness on Cross-Lingual Transfer in Large Multilingual Automatic Speech Recognition](https://arxiv.org/abs/2607.04814) **Preprint**
+- [August 3, 2026] [Dependency Parsing Across the Resource Spectrum: Evaluating Architectures on High and Low-Resource Languages](https://arxiv.org/abs/2605.02608) **accepted at LaTell2026**
+- [June 1, 2026] [Teaching a PIIRS global seminar in Kenya](https://piirs.princeton.edu/seminars-abroad/global-seminars/technology-african-languages-digital-age-interdisciplinary-approach)
+- [Fall, 2025] I will be teaching FRS 159, [Teaching Computers to Understand African Languages](https://www.princeton.edu/news/2025/02/07millions-african-continent-cant-fully-benefit-ai-revolution-princeton-course-aims)
 - [June 1, 2025] [Teaching a PIIRS global seminar in Kenya](https://piirs.princeton.edu/seminars-abroad/global-seminars/technology-african-languages-digital-age)
 - [May 16, 2025] [INJONGO](https://arxiv.org/abs/2502.09814): A multicultural Intent Detection and Slot-filling Dataset for 16 African languages **accepted at ACL2025** 
 - [May 8, 2025] Invited talk at [DESIGN JUSTICE AI: Global Humanities Post-Institute](https://sites.rutgers.edu/critical-ai/event-details/) Rutgers University
