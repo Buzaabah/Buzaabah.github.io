@@ -18,9 +18,9 @@ I completed my Ph.D. in the [Knowledge & Data Engineering Lab](http://www.kde.cs
 During my Ph.D, I was lucky to be advised by [Prof. Toshiyuki Amagasa](http://www.kde.cs.tsukuba.ac.jp/~amagasa/home/?IndexE) on making use of machine learning and computational linguistics to reason about language and knowledge. I focused on question answering over knowledge base systems.
              
 ## News
+- [August 3, 2026] [Evaluating the Effect of Linguistic Relatedness on Cross-Lingual Transfer in Large Multilingual Automatic Speech Recognition](https://arxiv.org/abs/2607.04814) **Preprint**
 - [Fall, 2026] I will teach FRS 159, [Teaching Computers to Understand African Languages](https://www.princeton.edu/news/2025/02/07/millions-african-continent-cant-fully-benefit-ai-revolution-princeton-course-aims)
 - [August 3, 2026] [AfriSUD](https://arxiv.org/abs/2606.12708): A Dependency Treebank Collection for Evaluating Models on African Languages **accepted at EMNLP2026**
-- [August 3, 2026] [Evaluating the Effect of Linguistic Relatedness on Cross-Lingual Transfer in Large Multilingual Automatic Speech Recognition](https://arxiv.org/abs/2607.04814) **Preprint**
 - [August 3, 2026] [Dependency Parsing Across the Resource Spectrum: Evaluating Architectures on High and Low-Resource Languages](https://arxiv.org/abs/2605.02608) **accepted at LaTell2026**
 - [June 1, 2026] [Teaching a PIIRS global seminar in Kenya](https://piirs.princeton.edu/seminars-abroad/global-seminars/technology-african-languages-digital-age-interdisciplinary-approach)
 - [Fall, 2025] I will be teaching FRS 159, [Teaching Computers to Understand African Languages](https://www.princeton.edu/news/2025/02/07millions-african-continent-cant-fully-benefit-ai-revolution-princeton-course-aims)
