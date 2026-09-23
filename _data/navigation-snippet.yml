@@ -1,0 +1,4 @@
+# Add this item under `main:` in _data/navigation.yml
+- title: "AfriSUD Demo"
+  url: /afrisud-demo/
+
